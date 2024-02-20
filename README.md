@@ -6,7 +6,7 @@ This repository implements Reinforcement Learning (RL) algorithms for playing AT
 
 ## Structure Of Algorithm
 
--[](4_double-deep-q-learning.png)
+-![](4_double-deep-q-learning.png)
 
 ## Results
 
